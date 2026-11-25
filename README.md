@@ -32,4 +32,4 @@ Also, each folder will say its version so people dont get confused ok bye bleh
 
 > <sub>(P.S: If you dont wanna download all this and stuff, go to the Opera GX store and find the same mod! I have it posted there too! Just keep in mind that since schema_version: 2 cant be used in mods, you wont have the cursor, splash screen, and the (really kinda nonexistant) app icon.)</sub>
 
-
+OPERA-FRIENDLY/GX STORE VERSION: https://store.gx.me/mods/cne34y/casualties-unknown-scav-prototype-mod-pack/
