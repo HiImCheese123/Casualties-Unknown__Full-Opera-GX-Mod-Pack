@@ -1,9 +1,9 @@
-# Casualties: Unknown - Full Opera GX Mod!
+# Casualties: Unknown - Full Opera GX Mod Pack!
 <img width="1204" height="173" alt="Screenshot 2026-11-25 042149" src="https://github.com/user-attachments/assets/637c533f-3e49-47b3-b86d-57480efbf68b" />
 Note: I do not own the original Casualties: Unknown game! The original game is made by Orsoinks, all credit goes to them!
 
 # How To Install To Opera GX:
-1) Install the latest version of the "CasualtiesUnknownModOperaGX" folder in the "Releases" section and save it somewhere in your computer
+1) Install the latest version of the Casualties Unknown Opera GX Mod folder in the "Releases" section and save it somewhere in your computer
 2) Extract/Unzip it
 3) Open Opera GX and go to extensions, then enable developer mode
 4) Next, click "Load unpacked" and open the unzipped "CasualtiesUnknownModOperaGX" folder you downloaded.
@@ -15,7 +15,7 @@ Proxy,
 Droning Grays,
 Begin Anew,
 Spiders in the Dark,
-RUN FOR YOUR LIFE,
+RUN FOR YOUR LIFE
 
 Planning to add more stuff (like songs, eventually adding icons, etc.), so stay posted on this page for updated versions!
 
