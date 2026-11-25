@@ -3,7 +3,7 @@
 Note: I do not own the original Casualties: Unknown game! The original game is made by Orsoinks, all credit goes to them!
 
 # How To Install To Opera GX:
-1) Install the latest version of the "CasualtiesUnknownModOperaGX" folder (preferably desktop so its easy to find but you can save it anywhere in your computer)
+1) Install the latest version of the "CasualtiesUnknownModOperaGX" folder in the "Releases" section and save it somewhere in your computer
 2) Extract/Unzip it
 3) Open Opera GX and go to extensions, then enable developer mode
 4) Next, click "Load unpacked" and open the unzipped "CasualtiesUnknownModOperaGX" folder you downloaded.
